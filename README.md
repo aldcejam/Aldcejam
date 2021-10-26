@@ -4,6 +4,7 @@
   🕚I study info at ifrn <br>
   💻Currently studying API and React
 
+  ##
 <div align="center">
   <a href="https://github.com/aldcejam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldcejam&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
