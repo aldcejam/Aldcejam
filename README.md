@@ -1,7 +1,7 @@
 ### 🙂Hi, I'am Aldcejam, FrontEnd
 
   ##
-  🕚I study info at ifrn
+  🕚I study info at ifrn <br>
   💻Currently studying API and React
 
 <div align="center">
