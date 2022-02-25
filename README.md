@@ -1,8 +1,8 @@
 ### 🙂Hi, I'am Aldcejam, FrontEnd
 
   ##
-  🕚I study info at ifrn <br>
-  💻Currently studying API and React
+  🕚Concluinte IFRN <br>
+  💻atualmente estudando React and nodeJs
 
   ##
 <div align="center">
