@@ -1,7 +1,7 @@
 ### 🙂Hi, I'am Aldcejam, FrontEnd
 
   ##
-  🕚Concluinte IFRN <br>
+  🕚Concluinte IFRN(informática) <br>
   💻atualmente estudando React and nodeJs
 
   ##
