@@ -1,4 +1,4 @@
-### 🙂Hi, I'am Aldcejam, FrontEnd
+### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor FrontEnd
 
   ##
   🕚Concluinte IFRN(informática) <br>
