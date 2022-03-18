@@ -2,7 +2,7 @@
 
   ##
   🕚Concluinte IFRN(informática) <br>
-  💻atualmente estudando React and nodeJs
+  💻atualmente estudando React, nodeJs, teste jest
 
   ##
 <div align="center">
