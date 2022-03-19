@@ -32,4 +32,4 @@
 </div>
   
  <hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldcejam&" alt="aldcejam" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aldcejam&" alt="aldcejam" /></p>
