@@ -1,6 +1,6 @@
 ### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor Front-End
 
-  ##
+  <hr/>
   🕚Concluinte IFRN(informática) <br>
   💻atualmente estudando React, nodeJs, teste jest
 
@@ -31,5 +31,5 @@
 
 </div>
   
- <hr/>
+ ##
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aldcejam&" alt="aldcejam" /></p>
