@@ -1,7 +1,7 @@
 ### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor Front-End
 
   <hr/>
-  🕚Concluinte IFRN(informática) <br>
+  🕚Concluinte IFRN (informática) <br>
   💻atualmente estudando React, nodeJs, teste jest
 
   ##
