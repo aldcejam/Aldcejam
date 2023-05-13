@@ -2,7 +2,7 @@
 
   <hr/>
   Técnico em Informática pelo IFRN <br>
-  💻atualmente estudando Design, testes e documentação front-end
+  atualmente estudando Design, testes e documentação front-end
   ## 
 <div style="display: inline_block"><br>
   
