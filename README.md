@@ -1,9 +1,8 @@
 ### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor Front-End
 
   <hr/>
-  🕚Concluinte IFRN (informática) <br>
-  💻atualmente estudando React, nodeJs, teste jest
-
+  Técnico em Informática pelo IFRN <br>
+  💻atualmente estudando Design, testes e documentação front-end
   ## 
 <div style="display: inline_block"><br>
   
