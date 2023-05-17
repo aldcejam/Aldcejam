@@ -2,6 +2,7 @@
 
   <hr/>
   Técnico em Informática pelo IFRN <br>
+  Fazendo Graduação em Tecnologia da Informação na UFRN
   atualmente estudando Design, testes e documentação front-end
   ## 
 <div style="display: inline_block"><br>
