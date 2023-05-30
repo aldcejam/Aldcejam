@@ -1,8 +1,8 @@
 ### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor Front-End
 
   <hr/>
-  Técnico em Informática pelo IFRN <br>
-  Fazendo Graduação em Tecnologia da Informação na UFRN <br>
+  Técnico em Informática pelo Instituto Federal de João Câmara <br>
+  Cursando Graduação em Tecnologia da Informação na UFRN <br>
   Atualmente estudando Design, testes e documentação front-end
 <div style="display: inline_block"><br>
   
