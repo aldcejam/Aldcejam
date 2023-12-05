@@ -1,9 +1,9 @@
-### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor Front-End
+### 🙂Olá, meu nome é Aldcejam, sou desenvolvedor Full-Stack
 
   <hr/>
-  Técnico em Informática pelo Instituto Federal de João Câmara <br>
-  Cursando Graduação em Tecnologia da Informação na UFRN <br>
-  Atualmente estudando Design, testes e documentação front-end
+  🎓 Técnico em Informática IFRN <br>
+  👨‍💻 Bacharelado em Tecnologia da Informação na UFRN (Andamento)<br>
+  👨‍💻 Atualmente aprofundando conhecimentos em java e estudando DDD
 <div style="display: inline_block"><br> 
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldcejam&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldcejam&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
