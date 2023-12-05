@@ -4,28 +4,59 @@
   Técnico em Informática pelo Instituto Federal de João Câmara <br>
   Cursando Graduação em Tecnologia da Informação na UFRN <br>
   Atualmente estudando Design, testes e documentação front-end
-<div style="display: inline_block"><br>
-  
-  
- <div align="center" > 
+<div style="display: inline_block"><br> 
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldcejam&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldcejam&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+  <hr/>
   
+<div style="display: inline-block;">  
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="aldcejam_HTML5"/> 
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="aldcejam_CSS3"/>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="aldcejam_JavaScript" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="aldcejam_TypeScript" />
+</div> 
+
+<div style="display: inline-block;">
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="aldcejam_Sass"/>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="aldcejam_Tailwind CSS" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="aldcejam_Material-UI" />
+</div> 
+<div>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="aldcejam_storybook" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="aldcejam_redux" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="aldcejam_Jest" />
+          
+</div>
+
+<div style="display: inline-block;"> 
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="aldcejam_AngularJS" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="aldcejam_React" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="aldcejam_Next.js" />
+</div>
+
+<div>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="aldcejam_Node.js" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="aldcejam_Express.js" /> 
+</div>
+
+<div>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="aldcejam_Java" />
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="aldcejam_Spring" />
+</div>
+<div>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="aldcejam_mysql"/>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="aldcejam_postgresql"/>
+          
+</div>
+<div>
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="aldcejam_Docker" />  
+  <img width="45px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" ald="aldcejam_Linux" />
+</div>
+ <hr style="border-color: #00ff00;"/>
  
-   ![Snake animation](https://github.com/Aldcejam/Aldcejam/blob/output/github-contribution-grid-snake.svg)
-   
-   <img align="center" alt="Aldcejam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
-  <img align="center" alt="Aldcejam-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> - 
-  <img align="center" alt="Aldcejam-React" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - 
-  <img align="center" alt="Aldcejam-Next" height="30" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> - 
-  <img align="center" alt="Aldcejam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
-  <img align="center" alt="Aldcejam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
-  <img align="center" alt="Aldcejam-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> - 
-  <img align="center" alt="Aldcejam-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-   
  <div style="">
-   <div align='center'>
+   <div align='left'>
 <a height="150em" href="http://www.github.com/Aldcejam">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldcejam&stroke=bd93f9&background=171717&ring=3382ed&fire=3382ed&currStreakNum=bd93f9&currStreakLabel=3382ed&sideNums=bd93f9&sideLabels=bd93f9&dates=bd93f9&hide_border=true" /></a>
 </div>
