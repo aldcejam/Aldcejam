@@ -2,7 +2,7 @@
 
   <hr/>
   🎓 Técnico em Informática IFRN <br>
-  👨‍💻 Bacharelado em Tecnologia da Informação na UFRN (Andamento)<br>
+  👨‍💻 Bacharelato em Tecnologia da Informação na UFRN (Andamento)<br>
   👨‍💻 Atualmente aprofundando conhecimentos em java e estudando DDD
 <div style="display: inline_block"><br> 
  
