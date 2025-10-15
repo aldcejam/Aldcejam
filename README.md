@@ -3,7 +3,7 @@
   <hr/>
   🎓 Técnico em Informática IFRN <br>
   👨‍💻 Bacharelato em Tecnologia da Informação na UFRN (Andamento)<br>
-  👨‍💻 Atualmente aprofundando conhecimentos em java e DDD
+  👨‍💻 Atualmente aprofundando conhecimentos em java e Microserviços
 <div style="display: inline_block"><br> 
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldcejam&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldcejam&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
